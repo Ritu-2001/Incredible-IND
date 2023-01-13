@@ -4,7 +4,7 @@
 }
 
 .all_content {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.844), rgba(0, 0, 0, 0)), url('../image/kerala2.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.844), rgba(0, 0, 0, 0)), url('image/kerala2.jpg');
   background-blend-mode: darken;
   background-repeat: no-repeat;
   background-size: cover;
